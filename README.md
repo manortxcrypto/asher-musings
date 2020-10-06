@@ -26,8 +26,6 @@ body { font-size: 20px;
 }
 </style>
 
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-
 <body>
   <nav id=navbar class="col-1">
     <header>Technical Documentation</header>
